@@ -1,7 +1,7 @@
 # QuizApp
 A functioning Quiz app made using HTML, Css and JavaScript.
 
-<a href="https://mrinnnmoy.github.io/QuizApp/" target="_blank">Visit here</a>🚀
+<a href="https://mrinnnmoy.github.io/QuizApp/" target="_blank" >Visit here</a>🚀
 
 ## 🖥️ Tech Stack
 <p>
